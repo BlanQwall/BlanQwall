@@ -52,8 +52,8 @@ That really depends on wet bench work or dry screen work, on research fields. Co
 
 Don't hesitate to contact me. 
 
-+   [LinkedIn](https://www.linkedin.com/in/bai-qiang "BAI Qiang's LinkedIn page"): it's my main networking platform. I publish the news and comment (when I really have something to say) on it and I check it everytime when notified. 
-+   [GitHub](https://github.com/BlanQwall "BAI Qiang's Github page"): it's my main networking platform. I publish the news and comment (when I really have something to say) on it and I check it everytime when notified. 
++   [LinkedIn](https://www.linkedin.com/in/bai-qiang "BAI Qiang's LinkedIn page"): it's where I make networking. I publish news and comments (when I really have something to say) on it and I check it everytime when notified. 
++   [GitHub](https://github.com/BlanQwall "BAI Qiang's Github page"): Just start, don't expect too much. 
 +   [Twitter](https://twitter.com/qunich "My Twitter page"): I check for news once per month. 
 +   [Email](mailto:qiang.bai@uliege.be): I still prefer this. 
 
