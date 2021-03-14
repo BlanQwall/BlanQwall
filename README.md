@@ -33,7 +33,7 @@ But recently I tried some some well-made templates and rendered them neatly into
 
 ### - 💞️ I’m looking to collaborate on ...
 
-That's really depend on wet bench work or dry screen work, on research fields. Contact me first. 
+That really depends on wet bench work or dry screen work, on research fields. Contact me first. 
 
 ### - 📫 How to reach me ...
 
