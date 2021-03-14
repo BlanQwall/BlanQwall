@@ -32,11 +32,17 @@ Of course it's only the languages used in my working or daily life. In a higher 
 + 	Next-generation sequencing: to distinguish from the next point, I would say all the sequence (not *sequenc-ing*) analyses, e.g. genomic variants/SNP, gene structure, TCR/BCR structure, etc. 
 + 	Single-cell analysis: here we can generalize the concept to all the techiques that mesure the biological responses of individual cells, e.g. flow cytometry, high-resolution imaging, digital PCR, etc. Most of these data were analzed in a 2-dimension way that might hide a big amount of useful information behind these precious data. I'm trying to re-visit these data and give them new values. However, now a big part of my daily work is to deal with the huge amount of sequencing data from single-cell RNA sequencing, single-cell multi-omics sequencing (transcriptmic + epigenomic). I'm quite interested in all the high-resolution spatial sequencing technologies even though I have not yet really touched any data from it. 
 
-### - 🌱 I’m currently learning Latex. 
+### - 🌱 I’m currently learning...
+
+*Latex* 
 
 I knew people several years ago writing their scientific paper and thesis with Latex. I thought we had to get really geek enough before writing papers using another language. Microsoft was my friend. 
 
 But recently I tried some well-made templates and rendered them neatly into reports. It was at that time I told myself I should also be geek on this... 
+
+*Machine learning*
+
+I mean the real machine learning... Eventually machine learning is very often used every day in my data analysis but I just use it discretely. Now I'm learning how to really design and step-by-step learn the machine to understand data. 
 
 ### - 💞️ I’m looking to collaborate on ...
 
