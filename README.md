@@ -7,14 +7,16 @@ I'm not a "coder" for most Github users, but I look like a computing geek in the
 - 👀 I’m interested in a lot of things... 
 
 Sometimes I think I'm just distracted too much by too many things in this wonderful world... But I don't think all the life hobbies are really what's expected to show here. Ok, the interests related to the informatics are below: 
-	- linux bash: mainly for working with analysis pipeline, like file handling, scripts for automatically running long analyses, sometimes working with the read sequences in NGS analysis. 
-	- R: that's the language on which I spend most time every day. Most of my post-sequencing analyses, including almost single-cell analyses, are carried on with the uncountable R packages. I use always Rstudio in my work, so I'm also intested in: 
-	- markdown/rmarkdown: that's a very beautiful part of Rstudio. I learn continuously from this site: https://bookdown.org/yihui/rmarkdown-cookbook/. 
-	- Python: still learning that but I don't work much with it. I found quite a lot of interesting Python packages that I like to play for data-mining. Yes, in most of time, that's only for fun. 
+
++ 	linux bash: mainly for working with analysis pipeline, like file handling, scripts for automatically running long analyses, sometimes working with the read sequences in NGS analysis. 
++ 	R: that's the language on which I spend most time every day. Most of my post-sequencing analyses, including almost single-cell analyses, are carried on with the uncountable R packages. I use always Rstudio in my work, so I'm also intested in: 
++ 	markdown/rmarkdown: that's a very beautiful part of Rstudio. I learn continuously from this site: https://bookdown.org/yihui/rmarkdown-cookbook/. 
++ 	Python: still learning that but I don't work much with it. I found quite a lot of interesting Python packages that I like to play for data-mining. Yes, in most of time, that's only for fun. 
 
 Of course it's only the languages used in my working or daily life. In a higher level, my interest is to answer the sophisticated biological questions by deep analyzing the huge amount of data generated with the most-advanced technologies. This technologies include: 
-	- Next-generation sequencing. 
-	- Single-cell analysis: here we can generalize the concept to all the techiques that mesure the biological responses of individual cells, e.g. flow cytometry, high-resolution imaging, digital PCR, etc. Most of these data were analzed in a 2-dimension way that might hide a big amount of useful information behind these precious data. I'm trying to re-visit these data and give them new values. However, now a big part of my daily work is to deal with the huge amount of sequencing data from single-cell RNA sequencing, single-cell multi-omics sequencing (transcriptmic + epigenomic). I'm quite interested in all the high-resolution spatial sequencing technologies although I have not yet really touched any data from it. 
+
++ 	Next-generation sequencing: to distinguish from the next point, I would say all the sequence analysis, e.g. genomic variants/SNP, gene structure, etc. 
++ 	Single-cell analysis: here we can generalize the concept to all the techiques that mesure the biological responses of individual cells, e.g. flow cytometry, high-resolution imaging, digital PCR, etc. Most of these data were analzed in a 2-dimension way that might hide a big amount of useful information behind these precious data. I'm trying to re-visit these data and give them new values. However, now a big part of my daily work is to deal with the huge amount of sequencing data from single-cell RNA sequencing, single-cell multi-omics sequencing (transcriptmic + epigenomic). I'm quite interested in all the high-resolution spatial sequencing technologies although I have not yet really touched any data from it. 
 
 
 - 🌱 I’m currently learning ...
