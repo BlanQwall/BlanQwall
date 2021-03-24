@@ -11,7 +11,7 @@ When I go back to my bench, I'm an immunologist. My research interests are:
 4. in the level of cell and molecular immunology, that means I study how cells work and what signals make them work and how.
 
 Some useful links: 
-+ My personal website: https://bai-qiang.com (everything buildup by me or building me up)
++ My personal website: https://bai-qiang.com (everything built up by me or building me up)
 + LinkedIn: https://www.linkedin.com/in/bai-qiang (my main networking place)
 + Github page: https://github.com/BlanQwall (I just start using it, don't expect much)
 + Lab's page: https://www.gigaimmunophysiology.uliege.be/cms/c_4673923/en/gigaimmunophysiology (what we are doing in lab?)
@@ -20,7 +20,7 @@ Some useful links:
 
 ### - 👀 I’m interested in a lot of things... 
 
-Sometimes I think I'm just distracted too much by too many things in this wonderful world... But I don't think life hobbies are really something expected to show here. Ok, the interests related to the informatics are below: 
+Sometimes I think I'm just distracted too much by too many things in this wonderful world... But I don't think life hobbies are something expected to show here. So, my interests related to the informatics are below: 
 
 + 	linux bash: mainly for working with analysis pipeline, like file handling, scripts for automatically running long analyses, sometimes working with the read sequences in NGS analysis. 
 + 	R: that's the language on which I spend most time every day. Most of my post-sequencing analyses, including almost single-cell analyses, are carried on with the uncountable R packages. I use always Rstudio in my work, so I'm also intested in: 
