@@ -1,21 +1,21 @@
-### - 👋 Hi, I'm Qiang. 
+### - 👋 Hi, 
 
 I have to say this is quite a brutal start with a README markdown as I have nothing prepared but this page just comes into my face. Anyway, let's give a flying-in introduction of me. 
 
 I'm not a "coder" for most Github users, but I look like a computing geek in the eyes of those conventional biologists. I have been trained as a "traditional" biologist with all my bachelor, master and PhD in biology. Even now, my main work as a scientist is still doing the "wet" experiments. Why "wet"? Because most of the biological experiments are made in solutions. For example, we need liquid media to culture cells and analyze them in liquid buffer and never dry them (of course they die when lacking water). But since my PhD training in 2009, I start analyzing complex biological data with "heavy" computing. The quotes means this sounds a little ridiculous today to say "heavy" for just launching a Significance Analysis of Microarrays with 1G RAM. But trust me, that was indeed "heavy" for most of biologists working only on "wet" benches, since we needed before that only Excel to calculate p-values for a low sample number (<20 in most cases). Today, we are working routinely with high-throuput sequencing data and single-cell sequencing data, even single-cell multiomics sequencing data, which requires much more competences of "real" informaticians. Most of time, a such experiment can give a big bite in lab's budget so requires a extremely carefull design before start. 
 
 When I go back to my bench, I'm an immunologist. My research interests are: 
-1. immune homostasis setup during a steady state (i.e. a normal no-infection, no-inflammation state)and; 
+1. immune homostasis setup during a steady state (i.e. a normal no-infection, no-inflammation state) and; 
 2. immune responses when our bodies get attacked by pathogens (virus, bacteria, etc); 
 3. disordered of both points above. For example, a disordered immune homostasis --> auto-immune diseases; a disordered immune responses --> incompete immunity; 
-4. in the level of cell and molecular immunology, that means I study how cells work and what signals make them work and how.
+4. in the level of cell and molecular immunology, which means I study how cells work and what signals make them work and how.
+5. and in the level of physio-pathology level, which means I'm focusing more and more on how environmental changes impact people's health and how diseases develop during these changes. 
 
 Some useful links: 
-+ My personal website: https://bai-qiang.com (everything built up by me or building me up)
-+ LinkedIn: https://www.linkedin.com/in/bai-qiang (my main networking place)
-+ Github page: https://github.com/BlanQwall (I just start using it, don't expect much)
-+ Lab's page: https://www.gigaimmunophysiology.uliege.be/cms/c_4673923/en/gigaimmunophysiology (what we are doing in lab?)
-+ ORCID ID: https://orcid.org/0000-0001-7423-0712 (my scientific records)
++ LinkedIn: https://www.linkedin.com/in/bai-qiang: my main networking place
++ Github page: https://github.com/BlanQwall: all the scientific projects. 
++ Lab's page: https://www.phymedexp.com/en/respiratory-diseases-and-the-environment: what we are doing in lab?
++ ORCID ID: https://orcid.org/0000-0001-7423-0712: my scientific records
 
 
 ### - 👀 I’m interested in a lot of things... 
@@ -53,9 +53,10 @@ That really depends on wet bench work or dry screen work, on research fields. Co
 Don't hesitate to contact me. 
 
 +   [LinkedIn](https://www.linkedin.com/in/bai-qiang "BAI Qiang's LinkedIn page"): it's where I make networking. I publish news and comments (when I really have something to say) on it and I check it everytime when notified. 
-+   [GitHub](https://github.com/BlanQwall "BAI Qiang's Github page"): Just start, don't expect too much. 
++   [GitHub](https://github.com/BlanQwall "BAI Qiang's Github page"): for code-related stuff. 
 +   [Twitter](https://twitter.com/qunich "My Twitter page"): I check for news once per month. 
-+   [Email](mailto:qiang.bai@uliege.be): I still prefer this. 
++   [Email](mailto:qiang.bai@inserm.fr): I still prefer this.
++   WeChat, if you use it as well. 
 
 
 <!---
