@@ -54,7 +54,7 @@ Don't hesitate to contact me.
 
 +   [LinkedIn](https://www.linkedin.com/in/bai-qiang "BAI Qiang's LinkedIn page"): it's where I make networking. I publish news and comments (when I really have something to say) on it and I check it everytime when notified. 
 +   [GitHub](https://github.com/BlanQwall "BAI Qiang's Github page"): for code-related stuff. 
-+   [Twitter](https://twitter.com/qunich "My Twitter page"): I check for news once per month. 
++   [Twitter](https://twitter.com/BaiPhdMba "My Twitter page"): I check for news once per month. 
 +   [Email](mailto:qiang.bai@inserm.fr): I still prefer this.
 +   WeChat, if you use it as well. 
 
